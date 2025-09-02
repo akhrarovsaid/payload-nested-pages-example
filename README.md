@@ -1,4 +1,10 @@
-# Payload Blank Template
+# Payload Nested Pages Example
+
+This examples showcases how one may use the nested docs plugin in order to nest pages in your forntend application.
+
+## Demo
+
+https://github.com/user-attachments/assets/9d232667-6362-41f0-ac53-b7b3d9e665bb
 
 This template comes configured with the bare minimum to get started on anything you need.
 
