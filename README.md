@@ -1,6 +1,6 @@
 # Payload Nested Pages Example
 
-This examples showcases how one may use the nested docs plugin in order to nest pages in your forntend application.
+This examples showcases how one may use the nested docs plugin in order to nest pages in your frontend application.
 
 ## Demo
 
